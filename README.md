@@ -7,6 +7,7 @@ Java program to perform basic arithmetic operations such as addition, subtractio
 To write a Java program to perform basic arithmetic operations such as addition, subtraction, multiplication and division using user input.
 
 ## PROGRAM
+```
 import java.util.Scanner;
 
 public class ArithmeticOperations {
@@ -27,16 +28,18 @@ public class ArithmeticOperations {
         sc.close();
     }
 }
-
+```
 ## INPUT
+```
 Enter first number: 20
 Enter second number: 10
-
+```
 ## OUTPUT
+```
 Addition: 30
 Subtraction: 10
 Multiplication: 200
 Division: 2
-
+```
 ## RESULT
 Thus, the Java program was successfully executed to perform basic arithmetic operations.
